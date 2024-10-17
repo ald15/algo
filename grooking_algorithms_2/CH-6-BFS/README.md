@@ -15,7 +15,10 @@
 
 ## Сложность
 
+---
 > [!TIP]
 > Проверка на соответствие [PEP8](https://peps.python.org/pep-0008/)
+> 
 > `pip3 install flake8` - установка.
+> 
 > `flake8 {file_name}` - использование.
